@@ -1,0 +1,6 @@
+Hello! I am a simple chatbot.
+Deep learning is a subset of machine learning.
+Neural networks learn patterns from data.
+Backpropagation is used to train neural networks.
+Streamlit helps you build simple apps quickly.
+Speech recognition converts voice into text.
